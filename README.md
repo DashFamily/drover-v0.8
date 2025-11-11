@@ -1,5 +1,5 @@
 # drover-v0.8
-To unblock Discord
+To unblock Discord from your country
 # Important note
 Before you activate drover-v0.8, you must close Discord from Task Manager for it to work properly.
 
